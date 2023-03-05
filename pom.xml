@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.3</version>
-		<packaging>war</packaging>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sarnava</groupId>
 	<artifactId>devopsassignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devopsassignment</name>
+	<packaging>war</packaging>
 	<description>DevOps Assignment</description>
 	<properties>
 		<java.version>17</java.version>
